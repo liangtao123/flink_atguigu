@@ -1,4 +1,4 @@
-package com.teligen;
+package com.teligen.flink;
 
 import org.apache.flink.api.common.serialization.SimpleStringSchema;
 import org.apache.flink.api.common.typeinfo.Types;
